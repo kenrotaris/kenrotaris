@@ -12,5 +12,5 @@
 
 ## Get in Touch! 📬
 <pre>
-  Feel free to email me at <a href="mailto:contact@kenrotaris.dev">contact@kenrotaris.dev</a>. I can't reply to every message, but I do read them all.
+  Feel free to email me at <a href="mailto:info@kenrotaris.dev">info@kenrotaris.dev</a>. I can't reply to every message, but I do read them all.
 </pre>

@@ -8,7 +8,7 @@
 📚 Bachelor in Computer Science (University Basel) 
 🌱 Machine Learning Enthusiast
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenrotaris&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenrotaris&layout=compact)-->
 
 ## Get in Touch! 📬
 <pre>
